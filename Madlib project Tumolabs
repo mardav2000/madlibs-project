@@ -1,7 +1,7 @@
 import random
 print("""Hello ,We are going to play little game called 'Mad Libs',
 just type what is needed and you will have some funny story
-Lets start """)
+Lets get start """)
 x=random.randint(0,2)
 if x==0:
     Number=input("Number: ")
